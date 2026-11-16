@@ -1,4 +1,4 @@
-# RAKESH S.
+# RAKESH S
 ### Aspiring Cybersecurity Professional | MCA – Cybersecurity | Security & Technology Enthusiast
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Rakesh S., a BCA graduate and currently pursuing an MCA with a specialization in Cybersecurity.
+I'm Rakesh S, a BCA graduate and currently pursuing an MCA with a specialization in Cybersecurity.
 
 I am passionate about understanding how systems work, identifying security weaknesses, exploring defensive security practices, and developing technology-driven solutions.
 
